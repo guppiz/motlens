@@ -1,0 +1,25 @@
+{
+  "name": "blog2",
+  "version": "1.0.0",
+  "description": "Jekyll blog",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2",
+    "gulp-shell": "^0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guppiz/motlens.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guppiz/motlens/issues"
+  },
+  "homepage": "https://github.com/guppiz/motlens#readme"
+}
